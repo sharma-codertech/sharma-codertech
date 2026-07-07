@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2a41,100:4a90d9&height=220&section=header&text=Shyam%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20ASP.NET%20MVC%20%26%20C%23&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1B2A41&height=200&section=header&text=Shyam%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <br/>
 
@@ -28,16 +28,13 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name: Shyam Sharma
-role: Software Engineer @ Mundrisoft ERP Solutions
-location: Pune, India
-focus: Full-Stack Development · REST APIs · AI-powered features
-currently_building: LMS/TMS/LXP + AI Assessment Platform
-exploring: OIDC authentication · advanced Entity Framework patterns
-education: B.E. Electronics & Telecommunication (CGPA 8.7)
-fun_fact: "Went from industrial IoT dashboards to AI chatbots for e-learning 🚀"
-```
+- 💼 **Role:** Software Engineer @ Mundrisoft ERP Solutions
+- 📍 **Location:** Pune, India
+- 🎯 **Focus:** Full-Stack Development · REST APIs · AI-powered features
+- 🔭 **Currently building:** LMS/TMS/LXP + AI Assessment Platform
+- 🌱 **Currently exploring:** OIDC authentication · advanced Entity Framework patterns
+- 🎓 **Education:** B.E. Electronics & Telecommunication (CGPA 8.7)
+- ⚡ **Fun fact:** Went from industrial IoT dashboards to AI chatbots for e-learning 🚀
 
 <br/>
 
@@ -140,7 +137,7 @@ Responsive dashboards visualizing asset health & lifecycle in real time for indu
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sharma-codertech&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=sharma-codertech&theme=tokyonight&hide_border=true" />
 
 <br/>
 
@@ -175,6 +172,6 @@ Responsive dashboards visualizing asset health & lifecycle in real time for indu
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a90d9,100:1b2a41&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1B2A41&height=100&section=footer" width="100%"/>
 
 </div>
